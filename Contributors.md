@@ -69,6 +69,7 @@
 - [Ramunas Kazlauskas](https://github.com/akuyra1)
 - Ketan Yadav
 - johnie
+- [Shubham] eren levi
 - [samuel-b](https://github.com/samuel-b)
 - [gooseneedsbread](https://github.com/gooseneedsbread)
 - [Rhea](https://github.com/RheaAtre)
